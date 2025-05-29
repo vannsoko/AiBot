@@ -79,6 +79,8 @@ Remove any of these if they dont match your project, or add more if you need to.
    ```dotenv
     BOT_TOKEN="REPLACE THIS WITH THE BOT TOKEN FROM THE DISCORD DEVELOPERS PORTAL"
     START_CHANNEL_ID="START_CHANNEL ID WHERE THE BOT WILL BE INITIALIZED"
+    OPENAI_API_KEY=""
+    IN_DEV=true
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
