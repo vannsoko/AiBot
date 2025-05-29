@@ -42,8 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Discord bot summarizing and responding questions about intern files in private message
-
+It's a Discord bot where you can ask questions and summaries about internal files.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,7 +52,7 @@ Remove any of these if they dont match your project, or add more if you need to.
 
 * Tensorflow
 * Disnake
-* Transformers
+* OpenAi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
