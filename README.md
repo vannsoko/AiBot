@@ -44,6 +44,9 @@
 
 It's a Discord bot where you can ask questions and summaries about internal files.
 
+It's using Disnake to interact with Discord.
+It uses vector stores from the AI ​​part to store the internal files and enable fast performance for the AI ​​to retrieve theinternal files.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
