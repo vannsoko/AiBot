@@ -8,8 +8,7 @@
 <h3 align="center">Ai Bot</h3>
 
   <p align="center">
-    Discord bot responding about files on the main server
-    <br />
+It is a Discord bot implementing ChatGPT to respond questions about internal files.    <br />
    
   </p>
 </div>
@@ -44,8 +43,8 @@
 
 It's a Discord bot where you can ask questions and summaries about internal files.
 
-It's using Disnake to interact with Discord.
-It uses vector stores from the AI ​​part to store the internal files and enable fast performance for the AI ​​to retrieve theinternal files.
+I am using Disnake to interact with Discord.
+To allow fast retrieve of the internal files for the AI, I implemented a vector store.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
