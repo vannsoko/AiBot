@@ -39,6 +39,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Question Answering AI project using ChatGPT, Vector Stores to efficiently handle, retrieve information from the context files and most important answer questions about private files.
+
 Document Retrieval and Question Answering project using discord as interface and Vector Stores with openAI to efficiently handle, retrieve information from the context files and most important answer questions.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
