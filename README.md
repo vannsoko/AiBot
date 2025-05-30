@@ -8,8 +8,7 @@
 <h3 align="center">Ai Bot</h3>
 
   <p align="center">
-It is a Discord bot implementing ChatGPT to respond questions about internal files.    <br />
-   
+Document Retrieval and Question Answering project using discord as interface and Vector Stores with openAI to efficiently handle, retrieve information from the context files and most important answer questions.   
   </p>
 </div>
 
