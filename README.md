@@ -47,7 +47,7 @@ Document Retrieval and Question Answering project using discord as interface and
 * OpenAi
 
 I'm using Discord as interface for the project, therefore I used Disnake to interact with the Discord API.
-  
+To be able to respond to the questions, I integrated the openAI API and used a vector store to enhance the speed of data retrieval and reduce cost.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
