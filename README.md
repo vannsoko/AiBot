@@ -39,21 +39,15 @@ Document Retrieval and Question Answering project using discord as interface and
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-It's a Discord bot where you can ask questions and summaries about internal files.
-
-I am using Disnake to interact with Discord.
-To allow fast retrieve of the internal files for the AI, I implemented a vector store.
-
+Document Retrieval and Question Answering project using discord as interface and Vector Stores with openAI to efficiently handle, retrieve information from the context files and most important answer questions.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-
-Remove any of these if they dont match your project, or add more if you need to.
-
-* Tensorflow
 * Disnake
 * OpenAi
+
+I'm using Discord as interface for the project, therefore I used Disnake to interact with the Discord API.
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
