@@ -39,17 +39,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Question Answering AI project using ChatGPT, Vector Stores to efficiently handle, retrieve information from the context files and most important answer questions about private files.
-
-Document Retrieval and Question Answering project using discord as interface and Vector Stores with openAI to efficiently handle, retrieve information from the context files and most important answer questions.
+Question Answering AI project using ChatGPT to respond to questions, Vector Stores to efficiently handle, retrieve information from the context files and Discord as interface.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 * Disnake
 * OpenAi
 
+To be able to respond to the questions, I integrated the openAI API and used a vector store to enhance the speed of data retrieval for the custom files and reduce cost.
 I'm using Discord as interface for the project, therefore I used Disnake to interact with the Discord API.
-To be able to respond to the questions, I integrated the openAI API and used a vector store to enhance the speed of data retrieval and reduce cost.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
