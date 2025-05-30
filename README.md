@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">Document Retrieval and Question Answering AI bot</h3>
+<h3 align="center"> Question Answering AI bot</h3>
   
   <p align="center">
 
@@ -66,7 +66,7 @@ I'm using Discord as interface for the project, therefore I used Disnake to inte
 2. Invite you new bot with admin permissions in your discord server
 3. Clone the repo
    ```sh
-   git clone https://github.com/vannsoko/AiBot.git
+   git clone https://github.com/vannsoko/DocumentQA.git
    ```
 4. Renaming .env.exemple to .env
 5. Enter BOT_TOKEN and START_CHANNEL_ID  in `.env`
