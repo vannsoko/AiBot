@@ -5,10 +5,10 @@
 
 
 
-<h3 align="center">Ai Bot</h3>
-
+<h3 align="center">Document Retrieval and Question Answering AI bot</h3>
+  
   <p align="center">
-Document Retrieval and Question Answering project using discord as interface and Vector Stores with openAI to efficiently handle, retrieve information from the context files and most important answer questions.   
+
   </p>
 </div>
 
